@@ -1,13 +1,25 @@
 html {
   box-sizing: border-box;
+  line-height: 1.5;
+  background-color: #dbd6cf;
+  margin: .3em;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
 }
 
+h1 {
+  background-color: #79756f;
+  padding: .5em .75em;
+  color: #fff;
+  font-family: 'Bevan', cursive;
+}
+
 ol li {
   display: inline-block;
   background-color: #713837;
-  padding: .6em
+  padding: .6em;
+  color: #fff;
+  font-family: sans-serif;
 }
