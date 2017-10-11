@@ -10,9 +10,9 @@ html {
 
 h1 {
   color: #fff;
-  font-family: 'Bevan', cursive;
+  font-family: "Bevan", cursive;
   text-align: center;
-  margin-top: 0px;
+  margin-top: 0;
 }
 
 header {
@@ -36,5 +36,5 @@ ol li {
 }
 
 body {
-  margin: 0px;
+  margin: 0;
 }
