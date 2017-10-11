@@ -9,8 +9,6 @@ html {
 }
 
 h1 {
-  display: block;
-  padding: .5em .75em;
   color: #fff;
   font-family: 'Bevan', cursive;
   text-align: center;
@@ -19,8 +17,10 @@ h1 {
 
 header {
   background-color: #79756f;
-  border-width: 1px;
-  border-color: #595652;
+  padding: .5em .75em;
+
+  border-top: 2px solid #595652;
+  border-bottom: 2px solid #595652;
 }
 
 ol li {
@@ -29,5 +29,12 @@ ol li {
   padding: .6em;
   color: #fff;
   font-family: sans-serif;
-  border-radius: .3em
+  border-radius: .3em;
+  margin: .3em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+  margin: 0px;
 }
