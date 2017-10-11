@@ -16,6 +16,8 @@ h1 {
   font-family: 'Bevan', cursive;
   border-width: 1px;
   border-color: #595652;
+
+  margin: 0px;
 }
 
 ol li {
@@ -25,4 +27,6 @@ ol li {
   color: #fff;
   font-family: sans-serif;
   border-radius: .3em
+
+  margin-bottom: .3em;
 }
