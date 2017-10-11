@@ -1,0 +1,13 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+ol li {
+  display: inline-block;
+  background-color: #713837;
+  padding: .6em
+}
