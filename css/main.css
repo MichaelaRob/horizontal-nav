@@ -10,14 +10,17 @@ html {
 
 h1 {
   display: block;
-  background-color: #79756f;
   padding: .5em .75em;
   color: #fff;
   font-family: 'Bevan', cursive;
+  text-align: center;
+  margin-top: 0px;
+}
+
+header {
+  background-color: #79756f;
   border-width: 1px;
   border-color: #595652;
-
-  margin: 0px;
 }
 
 ol li {
