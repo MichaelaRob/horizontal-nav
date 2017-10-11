@@ -2,7 +2,6 @@ html {
   box-sizing: border-box;
   line-height: 1.5;
   background-color: #dbd6cf;
-  margin: .3em;
 }
 
 *, *::before, *::after {
@@ -14,6 +13,8 @@ h1 {
   padding: .5em .75em;
   color: #fff;
   font-family: 'Bevan', cursive;
+  border-width: 1px;
+  border-color: #595652;
 }
 
 ol li {
@@ -22,4 +23,5 @@ ol li {
   padding: .6em;
   color: #fff;
   font-family: sans-serif;
+  border-radius: .3em
 }
