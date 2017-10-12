@@ -10,7 +10,7 @@ html {
 
 h1 {
   color: #fff;
-  font-family: Bevan;
+  font-family: 'Bevan', cursive;
   text-align: center;
   margin-top: 0;
   margin-bottom: 0;
@@ -27,7 +27,7 @@ header {
 
 .nav {
   text-align: center;
-  margin-top: 0px;
+  margin-top: 0;
 }
 
 .nav li {
