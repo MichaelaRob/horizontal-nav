@@ -27,12 +27,17 @@ ul li {
   display: inline-block;
   background-color: #713837;
   padding: .6em;
-  color: #fff;
-  font-family: sans-serif;
   border-radius: .3em;
   margin: .3em;
   margin-right: auto;
   margin-left: auto;
+}
+
+a {
+  list-style-type: none;
+  text-decoration: none;
+  color: #fff;
+  font-family: sans-serif;
 }
 
 body {
