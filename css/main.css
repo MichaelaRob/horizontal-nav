@@ -31,8 +31,8 @@ ul li {
   font-family: sans-serif;
   border-radius: .3em;
   margin: .3em;
-  margin-left: auto;
   margin-right: auto;
+  margin-left: auto;
 }
 
 body {
